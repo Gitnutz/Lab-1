@@ -1,1 +1,1 @@
-print ("wer")
+print ("wer is git for AIoT")
